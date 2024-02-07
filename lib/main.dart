@@ -25,20 +25,19 @@ class MyApp extends StatelessWidget {
 class DashboardScreen extends StatelessWidget {
   final List<String> videos = [
     'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
-    'https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4',
-    'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-    'https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4',
-    'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
+      'https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4', 
+      'https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4', 
 
     // Add more video URLs here
   ];
 
   final List<String> pdfs = [
-    'https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf',
     'https://riptutorial.com/Download/dart.pdf',
-    'https://www.tutorialspoint.com/java/java_tutorial.pdf',
-    'https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf',
-    'https://www.tutorialspoint.com/cprogramming/cprogramming_tutorial.pdf',
+    'https://riptutorial.com/Download/amazon-s3.pdf',
+    'https://riptutorial.com/Download/applescript.pdf',
+    'https://riptutorial.com/Download/apk.pdf',
+    'https://riptutorial.com/Download/azure-web-sites.pdf',
+    'https://riptutorial.com/Download/bigdata.pdf', 
     // Add more PDF URLs here
   ];
 
